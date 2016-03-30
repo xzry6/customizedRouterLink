@@ -16,7 +16,7 @@
  * <Button text="TextSignup" [wasabiRouterLink]="[testVal, onTest]"></Button>
  *
  * or as usual
- * <Button text="TextSignup" [wasabiRouterLink]="[testVal, onTest]"></Button>
+ * <Button text="TextSignup" [wasabiRouterLink]="[testVal]"></Button>
  */
 
 import {Directive} from 'angular2/core';
